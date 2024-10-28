@@ -1,7 +1,7 @@
 // index.js
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import '../frontend-app/src/index.css';
 import App from './App';
 
 ReactDOM.render(

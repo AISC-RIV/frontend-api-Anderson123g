@@ -47,3 +47,5 @@
     ```
 
 - Submit your GitHub Classroom assignment, ensuring that you include both the repository and live deployment links.
+- 
+- I learned how to fetch an API and how to utlize the information that is gathered. I also learned how to display images from the API. In terms of html, I learned about the new componenets such as divs, unoredered lists, paragraphs. I also learned about some general formatting and styling for the positions of the html items.
